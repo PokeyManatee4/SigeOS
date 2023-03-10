@@ -1,4 +1,4 @@
-Kernel_LGE_LS740
-================
+SigeOS
+=================
 
-Zippy Kernel for the Boost Mobile LG Volt
+OS Made For **LG Volt** only
